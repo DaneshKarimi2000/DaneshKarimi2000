@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi there, welcome!
 
-<!--
-**DaneshKarimi2000/DaneshKarimi2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Danesh Karimi**  
+💻 Fullstack Web Developer  
+⚡ Specialized in **React.js** (Front-end) and **Django** (Back-end)  
+🚀 Passionate about building scalable and modern web applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- React.js | JavaScript | HTML | CSS | TailwindCSS
+- Django | Python | REST API
+- PostgreSQL | MySQL
+- Git & GitHub
+
+---
+
+## 📌 Projects
+- 🔗 [React Portfolio](link-to-project)
+- 🔗 [Django Blog](link-to-project)
+- 🔗 [API with Django REST](link-to-project)
+
+---
+
+## 📫 Connect with me
+🌐 [Personal Website](www.linkedin.com/in/danesh-karimi-17942337b)  
+💼 [LinkedIn](www.linkedin.com/in/danesh-karimi-17942337b)  
+📧 [Email](mailto:daneshkarimi70@gmail.com)  
+
+---
+
+⭐️ Always eager to learn and build awesome projects!
