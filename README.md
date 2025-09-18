@@ -1,4 +1,5 @@
-<div style="background-color:black; padding:20px; border-radius:10px; color:white;">
+<div style="background-color:black; padding:20px; border-radius:10px;">
+<font color="white">
 
 # 👋 Hi there, welcome!
 I'm **Danesh Karimi**  
@@ -6,7 +7,9 @@ I'm **Danesh Karimi**
 ⚡ Specialized in **React.js** (Front-end) and **Django** (Back-end)  
 🚀 Passionate about building scalable and modern web applications
 
+</font>
 </div>
+
 
 ---
 
