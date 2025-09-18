@@ -30,7 +30,7 @@ I'm **Danesh Karimi**
 
 ## 📫 Connect with me
 🌐 [Personal Website](www.linkedin.com/in/danesh-karimi-17942337b)  
-💼 [LinkedIn](www.linkedin.com/in/danesh-karimi-17942337b)  
+💼 [LinkedIn](https://www.linkedin.com/in/danesh-karimi-17942337b/overlay/contact-info/#:~:text=Your%20Profile-,linkedin.com/in/danesh%2Dkarimi%2D17942337b,-Website) 
 📧 [Email](mailto:daneshkarimi70@gmail.com)  
 
 ---
