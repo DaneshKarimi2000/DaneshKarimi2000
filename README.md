@@ -40,6 +40,5 @@ I'm **Danesh Karimi**
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=daneshkarimi2000&show_icons=true&theme=radical)
 
-<img src="https://i.imgur.com/xyz123.png" width="100%" alt="banner">
 
 ⭐️ Always eager to learn and build awesome projects!
