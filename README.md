@@ -1,7 +1,10 @@
+<div style="background-color:black; padding:20px; border-radius:10px; color:white;">
+  
 # 👋 Hi there, welcome!
-
 I'm **Danesh Karimi**  
 💻 Fullstack Web Developer  
+
+</div>
 ⚡ Specialized in **React.js** (Front-end) and **Django** (Back-end)  
 🚀 Passionate about building scalable and modern web applications  
 
