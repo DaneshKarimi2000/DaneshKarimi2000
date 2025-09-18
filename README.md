@@ -28,5 +28,11 @@ I'm **Danesh Karimi**
 📧 [Email](mailto:daneshkarimi70@gmail.com)  
 
 ---
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daneshkarimi&layout=compact&theme=radical)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=daneshkarimi&show_icons=true&theme=radical)
+
 
 ⭐️ Always eager to learn and build awesome projects!
